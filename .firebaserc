@@ -1,0 +1,7 @@
+{
+  "projects": {
+    "default": "nest8-bdce1",
+    "dev": "development",
+    "prod": "production"
+  }
+}
